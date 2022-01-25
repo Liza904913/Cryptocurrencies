@@ -33,5 +33,5 @@ Elbow Curve
 
 ## Summary:
 
-We have identified the classification of 532 cryptocurrencies based on similarities of their features.
+We  have identified the classification of 532 cryptocurrencies based on similarities of their features.
 Particularities of each group need to be analyzed to determined their performance and potential interest for the investment bank's clients
